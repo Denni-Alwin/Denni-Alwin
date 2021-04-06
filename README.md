@@ -1,6 +1,6 @@
+Hi there, I’m @Denni-Alwin
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dennialwin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Dennialwin)
 
-- 👋 Hi, I’m @Denni-Alwin
 - 👀 I’m interested in RoBotICs and AI
 - 🌱 I’m currently learning B.tech(Robotics And Automation)
 - 💞️ I’m looking to collaborate on Developers and Projects
