@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Developers and Projects
 - 📫 How to reach me https://dennialwin.blogspot.com/
 
-<img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="100">
