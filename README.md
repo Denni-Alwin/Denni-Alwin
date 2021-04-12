@@ -23,7 +23,12 @@
 </p>
 <div> 
   <h3> 💻 Languages and Tools </h3>
-
+<div align="center">
+ <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/c-original.svg' width='30'/> 
+ <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/cpp.svg' width='30'/> 
+  <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/flutter-logo.svg' width='30'/> 
+  <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/python.svg' width='30'/> 
+  <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/git.svg' width='30'/> 
 </div> 
 
 <h3 align="center">DREAM ✭ CREATE ✭ INSPIRE!</h3>
