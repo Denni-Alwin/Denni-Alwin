@@ -4,7 +4,7 @@
 - 👀 I’m interested in RoBotICs and AI
 - 🌱 I’m currently learning B.tech(Robotics And Automation)
 - 💞️ I’m looking to collaborate on Developers and Projects
-- 📫 How to reach me https://dennialwin.blogspot.com/
+- 📫 Check out my personal blog https://dennialwin.blogspot.com/
 
   𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:
   <p align='left'>
