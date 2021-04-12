@@ -7,11 +7,15 @@
 - 📫 How to reach me https://dennialwin.blogspot.com/
 
   𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:
-  <p align='center'>
+  <p align='left'>
   
-  <a href="https://www.linkedin.com/in/sanithps98/">
+  <a href="https://www.linkedin.com/in/denni-alwin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
-  </a>&
+  </a>
+  <a href="https://www.instagram.com/draconis_guy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+
 
   <div> 
   <h3> 💻 Languages and Tools </h3>
