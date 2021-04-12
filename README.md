@@ -24,8 +24,7 @@
 <div> 
   <h3> 💻 Languages and Tools </h3>
   <p>
-   <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="50"><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="50">
-    <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="50">
+   <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="50"><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="50"> <img align="left" alt="Terminal" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="50">
   <p>
 </div> 
 
