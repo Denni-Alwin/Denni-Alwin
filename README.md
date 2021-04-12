@@ -18,7 +18,7 @@
  <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Denni-alwin&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Denni-alwin)](https://github.com/anuraghazra/github-readme-stats)
 
   <div> 
   <h3> 💻 Languages and Tools </h3>
