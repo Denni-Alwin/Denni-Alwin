@@ -6,11 +6,10 @@
 - 💞️ I’m looking to collaborate on Developers and Interesting Projects
 - 📫 Check out my personal blog https://dennialwin.blogspot.com/
 
-  ⚡ 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒 ⚡:
-  <p align='left'>
-  
+⚡ 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒 ⚡:
+<p align='left'>
   <a href="https://www.linkedin.com/in/denni-alwin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
+   <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/draconis_guy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
