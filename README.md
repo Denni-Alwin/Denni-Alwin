@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
  <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Denni-alwin&show_icons=true&count_private=true&theme=Gradient" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Denni-alwin&show_icons=true&count_private=true&theme=gradient" width="350"></a>
 </p>
 
 
