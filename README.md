@@ -21,7 +21,7 @@
 <p align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denni-alwin&layout=compact" /></a>
 </p>
-<div> 
+<div align="center"> 
   <h3> 💻 Languages and Tools </h3>
 <div align="center">
  <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/c-original.svg' width='30'/> 
