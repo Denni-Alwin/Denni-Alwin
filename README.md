@@ -18,9 +18,9 @@
  <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Denni-alwin&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
-<p align='center'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denni-alwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denni-alwin&layout=compact" />
+</a>
 <div> 
   <h3> 💻 Languages and Tools </h3>
   <p>
