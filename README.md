@@ -30,6 +30,8 @@
   <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/python.svg' width='30'/> 
   <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/git.svg' width='30'/> 
   <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/html.svg' width='30'/>
+  <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/Octicons-terminal.svg' width='30'/>
+  <img src = 'https://github.com/Denni-Alwin/Denni-Alwin/blob/main/images/58481537cef1014c0b5e4968.png' width='30'/>
 </div> 
 
 <h3 align="center">DREAM ✭ CREATE ✭ INSPIRE!</h3>
