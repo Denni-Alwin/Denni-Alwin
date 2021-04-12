@@ -7,8 +7,7 @@
 - 📫 How to reach me https://dennialwin.blogspot.com/
 <div>
   𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:
-  [<img align="left" alt="denni-alwin | https://www.linkedin.com/in/denni-alwin/" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-  [<img align="left" alt="Dennialwin| https://twitter.com/Dennialwin" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+  [<img align="left" alt="denni-alwin | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/denni-alwin/]
   
   <h3> 💻 Languages and Tools </h3>
   <p>
