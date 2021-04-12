@@ -15,7 +15,9 @@
   <a href="https://www.instagram.com/draconis_guy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
-
+  <a href="dennialwinkl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
 
   <div> 
   <h3> 💻 Languages and Tools </h3>
