@@ -18,7 +18,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Denni-alwin&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
 <p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denni-alwin&layout=compact" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denni-alwin&layout=compact&theme=radical" /></a>
 </p>
 <div align="center"> 
   <h3> ∙,-*'^'~*-.,_,.-*~ 👨‍💻 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰 𝔞𝔫𝔡 𝔗𝔬𝔬𝔩𝔰 ,-*'^'~*-.,_,.-*~  </h3>
