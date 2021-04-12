@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Developers and Interesting Projects
 - 📫 Check out my personal blog https://dennialwin.blogspot.com/
 
-  𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:
+  ⚡ 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒 ⚡:
   <p align='left'>
   
   <a href="https://www.linkedin.com/in/denni-alwin/">
