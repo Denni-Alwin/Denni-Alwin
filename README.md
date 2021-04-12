@@ -7,9 +7,13 @@
 - 📫 How to reach me https://dennialwin.blogspot.com/
 
   𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:
-  <div>
-  [<img align="left" alt="denni-alwin | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/denni-alwin/]
+  <p align='center'>
   
+  <a href="https://www.linkedin.com/in/sanithps98/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
+  </a>&
+
+  <div> 
   <h3> 💻 Languages and Tools </h3>
   <p>
    <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
