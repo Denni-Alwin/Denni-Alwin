@@ -34,5 +34,3 @@
 </div> 
 
 <h3 align="center">DREAM ✭ CREATE ✭ INSPIRE!</h3>
-
-<img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="100">
